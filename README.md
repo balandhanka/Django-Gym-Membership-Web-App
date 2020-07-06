@@ -5,3 +5,9 @@
   For changing username and password
   
   `python manage.py createsuperuser`
+
+## Features:-
++ Admin panel
++ Registration
++ Check Status on all the pending transections by notification panel
++ Update and edit the details of users.
