@@ -1,5 +1,5 @@
 # Django-Gym-Membership-Web-App
-## Usage: python manage.py runserver
+## Usage: `python manage.py runserver`
 ### username - abc
 ### password - 123@123
   For changing username and password
