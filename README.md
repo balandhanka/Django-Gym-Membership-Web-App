@@ -5,7 +5,9 @@
   For changing username and password
   
   `python manage.py createsuperuser`
-
+  
+  A simmple web app for managing gym memberships.
+  
 ## Features:-
 + Admin panel
 + Registration
